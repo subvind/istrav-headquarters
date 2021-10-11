@@ -27,8 +27,8 @@ source code:
 - https://github.com/trabur/extra-frontend
 
 containers:
-- https://hub.docker.com/repository/docker/istrav/extra-backend
-- https://hub.docker.com/repository/docker/istrav/extra-frontend
+- https://hub.docker.com/r/istrav/extra-backend
+- https://hub.docker.com/r/istrav/extra-frontend
 
 ### node.js
 ```bash
