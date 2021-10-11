@@ -3,7 +3,7 @@ name: buildDockerByLatest
 on:
   push:
     branches:
-      - 'main'
+      - 'master'
 
 jobs:
   frontend-docker:
