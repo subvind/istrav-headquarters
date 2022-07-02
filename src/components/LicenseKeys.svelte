@@ -19,7 +19,7 @@
               <h1 style="margin: 0;">$25</h1>
               <p>Suited for startups, freelancers or anyone needing just one hosting account.</p>
 
-              <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
+              <a href="https://istrav.com/platforms/pricing" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
             <div class="col m4" style="text-align: center;">
               <h5 style="margin: 0;">Level 2</h5>
@@ -27,7 +27,7 @@
               <br />
               <h1 style="margin: 0;">$50</h1>
               <p>Optimal for mid-level businesses and large agencies that are growing. Allows for scalability.</p>
-              <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
+              <a href="https://istrav.com/platforms/pricing" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
             <div class="col m4" style="text-align: center;">
               <h5 style="margin: 0;">Level 3</h5>
@@ -35,7 +35,7 @@
               <p style="margin: 0; font-size: 0.8em; line-height: 1.5em;">(1, 2, 3, etc...)</p>
               <h1 style="margin: 0;">$75</h1>
               <p>Created for data centers, enterprise level businesses, and larger web hosts.</p>
-              <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
+              <a href="https://istrav.com/platforms/pricing" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
           </div>
         </div>

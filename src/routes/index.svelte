@@ -42,11 +42,10 @@
 
 <Header />
 <Welcome />
-<div style="margin-top: -150px;">
+<div style="margin-bottom: -1.5em; margin-top: -150px;">
   <Hosting />
 </div>
 <ProHosting />
-<Domains />
 <MainPaint />
 <PoweredBy />
 <br />
@@ -79,6 +78,7 @@
 
 <Footer />
 <About token={token} />
+<Domains />
 
 <!-- vector images source -->
 <div style="display: none;"><a href="https://www.vecteezy.com/free-vector/web">Web Vectors by Vecteezy</a></div>

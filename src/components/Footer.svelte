@@ -31,7 +31,7 @@
                   </p>
                 </div>
                 <div class="col s12 m4">
-                  <div class="name">Mission:</div>
+                  <div class="name">Culture:</div>
                   <p>
                     We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
                   </p>
@@ -67,7 +67,7 @@
           <br />
           <br />
           <div style="text-align: center;">
-            <a class="btn btn-large black" href="/intro/app-store">Anthill Hosting</a>
+            <a class="btn btn-large black" href="https://istrav.com/projects">Plan a project</a>
           </div>
         </div>
       </div>

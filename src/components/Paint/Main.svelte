@@ -8,8 +8,8 @@
       <div class="col s12 m1"></div>
       <div class="col s12 m10">
         <div class="container">
-          <h1 style="text-align: center;">itPanel:</h1>
-          <h4 style="text-align: center; margin-top: -0.5em;">(Web Platform Automation)</h4>
+          <h1 style="text-align: center;">Bulletin Board<br />System:</h1>
+          <h4 style="text-align: center; margin-top: -0.5em;"></h4>
           <div class="row">
             <div class="col s12 m4">
               <p>Support Desk:</p>
@@ -53,7 +53,7 @@
             </div>
           </div>
           <div style="text-align: center;">
-            <a href="/it-panel" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">dashboard</i></a>
+            <a href="/it-panel" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">folder</i></a>
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@
       <div class="col s12 m10">
         <div class="container" style="text-align: center;">
           <h1>Behavior Driven<br/>Development</h1>
-          <h4 style="margin-top: -0.5em;">We produce high quality results by making good decisions from the beginning and then we progress rapidly by itterating in many small changes.</h4>
+          <h4 style="margin-top: -0.5em;">We produce high quality results by making good decisions from the beginning and then we progress rapidly by itterating with many small changes.</h4>
         </div>
         <br />
         <br />
@@ -85,7 +85,7 @@
     <div class="col s12 m3"></div>
     <div class="col s12 m6">
       <h1 style="text-align: center; color: #fff;">Network AI</h1>
-      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial inteligence as a tool to envhance our workflows.</h4>
+      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial inteligence as a tool to enhance our workflows.</h4>
       <!-- <p style="color: #eee;"></p> -->
     </div>
     <div class="col s12 m3"></div>

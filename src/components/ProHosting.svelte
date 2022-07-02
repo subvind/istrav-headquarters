@@ -59,8 +59,8 @@
 
 <div class="circut">
   <br />
-  <h1 style="text-align: center;">Pro Hosting:</h1>
-  <h4 style="text-align: center; margin-top: -0.5em;">(Web Building Blocks)</h4>
+  <h1 style="text-align: center;">Multi-Tenant<br /> Specialization:</h1>
+  <h4 style="text-align: center; margin-top: -0.5em;"></h4>
 
   <div class="container">
     <div class="row">

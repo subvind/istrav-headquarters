@@ -11,7 +11,7 @@
           <h1 style="margin: 0;">$60<span style="font-size: 0.3em;">/hour</span></h1>
           <p style="margin: 0;">Suited for startups, freelancers or anyone needing just one hosting account.</p>
           <br />
-          <a href="/hosting/app" class="btn red lighten-2 fluid" style="text-transform: none;">Learn More</a>
+          <a href="https://istrav.com/contact-me" class="btn red lighten-2 fluid" style="text-transform: none;">Contact Me</a>
         </div>
       </div>
       <div class="col s12 m4">
@@ -22,7 +22,7 @@
           <h1 style="margin: 0;">$90<span style="font-size: 0.3em;">/hour</span></h1>
           <p style="margin: 0;">Suited for startups, freelancers or anyone needing just one hosting account.</p>
           <br />
-          <a href="/hosting/static" class="btn red lighten-2 fluid" style="text-transform: none;">Learn More</a>
+          <a href="https://istrav.com/contact-me" class="btn red lighten-2 fluid" style="text-transform: none;">Contact Me</a>
         </div>
       </div>
       <div class="col s12 m4">
@@ -33,7 +33,7 @@
           <h1 style="margin: 0;">$75<span style="font-size: 0.3em;">/hour</span></h1>
           <p style="margin: 0;">Suited for startups, freelancers or anyone needing just one hosting account.</p>
           <br />
-          <a href="/hosting/email" class="btn red lighten-2 fluid" style="text-transform: none;">Learn More</a>
+          <a href="https://istrav.com/contact-me" class="btn red lighten-2 fluid" style="text-transform: none;">Contact Me</a>
         </div>
       </div>
     </div>

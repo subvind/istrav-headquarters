@@ -8,14 +8,14 @@
   <br class="hide-on-med-and-down" />
   <br />
   <div class="content">
-    <h1 style="text-align: center; margin: 0;">Mission Statement</h1>
+    <h1 style="text-align: center; margin: 0;">Hello World!</h1>
     <h4 class="header"></h4>
-    <div class="description">What is a mission statement?<br />A mission statement is a short statement of why an organization exists, what its overall goal is, identifying the goal of its operations: what kind of product or service it provides, its primary customers or market, and its geographical region of operation.<br /><br />What is your Target Market?<br />A target market is a group of customers within a business's serviceable available market at which a business aims its marketing efforts and resources. A target market is a subset of the total market for a product or service. </div>
+    <div class="description">What is your Mission Statement?<br />A mission statement is a short statement of why an organization exists, what its overall goal is, identifying the goal of its operations: what kind of product or service it provides, its primary customers or market, and its geographical region of operation.<br /><br />What is your Target Market?<br />A target market is a group of customers within a business's serviceable available market at which a business aims its marketing efforts and resources. A target market is a subset of the total market for a product or service. </div>
     <br />
     <br />
-    <!-- <div style="text-align: center;">
-      <a href="/about" class="btn teal btn-large btn-floating"><i class="material-icons" style="color: #fff;">import_contacts</i></a>
-    </div> -->
+    <div style="text-align: center;">
+      <a href="https://istrav.com/production" class="btn teal btn-large">production</a>
+    </div>
     <!-- <div class="phone">
       Call 24/7/365 at (866) TRA-BURA<br />
       burandt@istrav.com
