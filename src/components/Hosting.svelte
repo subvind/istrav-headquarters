@@ -93,7 +93,7 @@
           </div>
         </div>
         <div style="text-align: center;">
-          <a href="/powered-by-istrav" class="btn teal btn-large btn-floating"><i class="material-icons" style="color: #fff;">flash_on</i></a>
+          <a href="https://istrav.com/about" class="btn teal btn-large btn-floating"><i class="material-icons" style="color: #fff;">done</i></a>
         </div>
       </div>
       <br />
