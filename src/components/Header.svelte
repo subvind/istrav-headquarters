@@ -23,7 +23,7 @@
   <div style="padding: 1em; border-bottom: 1px solid #888; overflow: hidden;">
     <div style="float: left;">
       <a href="#!" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">chat</i> Live Chat</a>
-      <a href="#!" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">mail</i> Email: burandt@istrav.com</a>
+      <a href="#!" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">mail</i> Email: travis.burandt@gmail.com</a>
     </div>
     <div style="float: right; color: #888;">
       <i class="material-icons" style="font-size: 0.8em; color: #888;">phone</i> Call 24/7/365 at (866) TRA-BURA
