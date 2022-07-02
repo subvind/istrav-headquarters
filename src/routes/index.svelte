@@ -35,7 +35,7 @@
 </script>
 
 <svelte:head>
-  <title>Extra Web Hosting Solutions & Services by isTrav</title>
+  <title>System Headquarters - isTrav</title>
   <meta name="description" content="isTrav offers very fast hosting for your website. So fast our control panels have melted!">
   <meta name="keywords" content="web site, web hosting, vps, reseller, shared, dedicated, hosting, servers, colocation, domain names">
 </svelte:head>
@@ -47,16 +47,8 @@
 </div>
 <ProHosting />
 <Domains />
-
 <MainPaint />
-<br class="hide-on-med-and-down" />
-<br class="hide-on-med-and-down" />
-<br />
-
 <PoweredBy />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -71,7 +63,6 @@
 
 <LicenseKeys />
 
-<About token={token} />
 <br />
 <br />
 <br />
@@ -87,6 +78,7 @@
 <br />
 
 <Footer />
+<About token={token} />
 
 <!-- vector images source -->
 <div style="display: none;"><a href="https://www.vecteezy.com/free-vector/web">Web Vectors by Vecteezy</a></div>

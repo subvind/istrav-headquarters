@@ -23,8 +23,11 @@
   </div>
 
   <div class="float">
-    <h1 style="text-align: center; margin-top: -1.5em; position: absolute; text-align: center; width: 100%;">Services:</h1>
-    <h4 style="text-align: center; margin-top: -0.5em; position: absolute; text-align: center; width: 100%;">(Resource Allocation)</h4>
+    <h1 style="text-align: center; margin-top: -1.5em; position: absolute; text-align: center; width: 100%;">Workers</h1>
+    <h4 style="text-align: center; margin-top: -0.5em; position: absolute; text-align: center; width: 100%;">Cloud compute in over <br />250 edge locations.</h4>
+    <br />
+    <br />
+    <br />
     <br />
     <br />
     <div style="position: absolute; text-algin: center; width: 100%;">

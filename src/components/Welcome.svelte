@@ -11,15 +11,15 @@
 <div class="it-panel">
   <div class="row" style="padding: 1em;">
     <div class="col s12 m6 l6">
-      <h1 class="slogan">Extra Web<br />Hosting</h1>
+      <h1 class="slogan">System<br />Headquarters</h1>
       <p style="max-width: 400px; font-size: 1.2em;">Solutions & Services that scale in the cloud with Data Control and Data Integrity in mind; accessible through our home grown itPanel, RAID1 storage, snapshots + automatic daily backups for VMs with Proxmox, redundant NAS servers for disaster recovery with OMV, send data offsite with Duplicati, easy file management with FileRun, database interaction over GraphQL API and UI with Directus, complete analytics with Grafana, deploy code with GitLab, free SSL certificates, and a free domain name for commiting to 1 year of your time with isTrav.</p>
       <p style="font-size: 1.2em;">Yeah, that's how we roll.</p>
       <br />
       <div>
-        <a href="/hosting/static" class="btn btn-large red lighten-2" style="float: left; margin-right: 1em; text-transform: none;">Get Started Now</a>
+        <a href="https://istrav.com/platforms/pricing" class="btn btn-large red lighten-2" style="float: left; margin-right: 1em; text-transform: none;">Membership</a>
         <div style="">
           <p style="font-size: 1.2em;  font-weight: bold; margin: 0;">Starting at only</p>
-          <p style="font-size: 2em; margin: 0;">$2.50/mo*</p>
+          <p style="font-size: 2em; margin: 0;">$25/mo*</p>
         </div>
       </div>
     </div>

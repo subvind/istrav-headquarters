@@ -6,8 +6,8 @@
     <div class="col s12 m1"></div>
     <div class="col s12 m10">
       <div class="container">
-        <h1 style="text-align: center; margin: 0;">API:</h1>
-        <h4 class="header">(Source Code & Technology)</h4>
+        <h1 style="text-align: center; margin: 0;">Headless API:</h1>
+        <h4 class="header">Detach from our UIs<br />and roll with your own.</h4>
         <div class="row" style="margin: 0;">
           <div class="col m6 s12">
             <img src="/graphics/jwst.png" width="100%" alt="" style="filter: grayscale(100%)" />

@@ -70,27 +70,11 @@
       <div class="col s12 m1"></div>
       <div class="col s12 m10">
         <div class="container" style="text-align: center;">
-          <h1 >App Store:</h1>
-          <h4 style="margin-top: -0.5em;">(Production Ready Websites)</h4>
-          <br />
-          <img src="/app-store/chatwoot.svg" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 80px; margin: 0.5em;" />
-          <img src="/app-store/directus.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 80px; margin: 0.5em;" />
-          <img src="/app-store/duplicati.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 80px; margin: 0.5em;" />
-          <img src="/app-store/filerun.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 30px; margin: 0.5em;" />
-          <img src="/app-store/gitlab.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 50px; margin: 0.7em 0.5em -0.3em;" />
-          <img src="/app-store/saleor.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 40px; margin: 0.5em;" />
-          <img src="/app-store/nodebb.svg" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 80px; margin: 0.5em;" />
-          <img src="/app-store/ghost.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 80px; margin: 0.8em 0.5em -0.4em;" />
-          <img src="/app-store/minio.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 50px; margin: 0.8em 0.5em -0.3em;" />
-          <img src="/app-store/nginx.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 60px; margin: 0.8em 0.5em -0.3em;" />
-          <img src="/app-store/lbry.png" alt="" style="filter: grayscale(100%); max-width: 150px; max-height: 60px; margin: 0.8em 0.5em -0.3em;" />
-          <br />
-          <br />
-          <br />
-          <a href="/app-store/dashboard" class="btn black btn-large btn-floating"><i class="material-icons" style="color: #fff;">store</i></a>
-          <br />
-          <br />
+          <h1>Behavior Driven<br/>Development</h1>
+          <h4 style="margin-top: -0.5em;">We produce high quality results by making good decisions from the beginning and then we progress rapidly by itterating in many small changes.</h4>
         </div>
+        <br />
+        <br />
       </div>
       <div class="col s12 m1"></div>
     </div>
@@ -100,11 +84,8 @@
   <div class="row">
     <div class="col s12 m3"></div>
     <div class="col s12 m6">
-      <a href="/powered-by-istrav">
-        <Logo size="large" color="#eee" />
-      </a>
-      <br />
-      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">(Powered By)</h4>
+      <h1 style="text-align: center; color: #fff;">Network AI</h1>
+      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial inteligence as a tool to envhance our workflows.</h4>
       <!-- <p style="color: #eee;"></p> -->
     </div>
     <div class="col s12 m3"></div>
@@ -117,7 +98,18 @@
 <br />
 <br />
 <br />
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<a href="https://istrav.com">
+  <Logo size="large" color="#000" />
+</a>
+<br />
+<div class="container" style="width: 600px;">
+  <h4 style="margin-top: -0.5em; text-align: center;">isTrav's goal is to solve problems using the right solutions, turn ideas into apps that spark joy to the end user, and then to keep production live with what works best.</h4>
+</div>
 
 
 <style>

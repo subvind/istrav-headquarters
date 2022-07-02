@@ -1,6 +1,6 @@
 
 <script>
-  export let title = 'Community'
+  export let title = '/platform/'
   export let back = false
   export let color = 'red lighten-2'
 
@@ -41,7 +41,10 @@
   <div class="col s12 m10">
     <div class="container">
       {#if title}
-        <h4>{title}:</h4>
+        <h1 class="title">{title}:</h1>
+        <div class="description">We provide prebuilt UIs for each idea:</div>
+        <br />
+        <br />
       {/if}
       {#if back}
         <a href="/it-panel" class="btn red lighten-2">← MAIN</a>
@@ -56,7 +59,7 @@
                 <a href={value.url} class={`btn-floating halfway-fab waves-effect waves-light ${color}`}><i class="material-icons">{value.icon}</i></a>
               </div>
               <div class="card-content">
-                <h3 class="title">{value.name}</h3>
+                <h3 style="margin: 0;">{value.name}</h3>
                 <p>{value.name}</p>
               </div>
             </div>
@@ -80,7 +83,11 @@
 
   .title {
     margin: 0 0 0.2em;
-    color: #333;
+    color: #fff;
+  }
+
+  .description {
     font-size: 2em;
+    color: #fff;
   }
 </style>

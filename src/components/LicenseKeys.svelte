@@ -7,39 +7,39 @@
     <div class="col s12 m1"></div>
     <div class="col s12 m10">
       <div class="container" style="position: relative; z-index: 1;">
-        <h1 style="text-align: center; margin: 0;">License Keys:</h1>
-        <h4 class="header">(Simple & Predictable)</h4>
+        <h1 style="text-align: center; margin: 0;">And... we have lift off!</h1>
+        <h4 class="header">Launch Platform</h4>
         <div class="chart">
           <div class="row" style="margin-bottom: 0;">
             <div class="col m4" style="text-align: center;">
 
-              <h5 style="margin: 0;">itPanel Plus</h5>
-              <p style="margin: 0;">(1 Tenant)</p>
+              <h5 style="margin: 0;">Level 1</h5>
+              <p style="margin: 0;">(Up to 50 active users)</p>
               <br />
-              <h1 style="margin: 0;">$15</h1>
+              <h1 style="margin: 0;">$25</h1>
               <p>Suited for startups, freelancers or anyone needing just one hosting account.</p>
 
               <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
             <div class="col m4" style="text-align: center;">
-              <h5 style="margin: 0;">Professional</h5>
-              <p style="margin: 0;">(30 Tenants)</p>
+              <h5 style="margin: 0;">Level 2</h5>
+              <p style="margin: 0;">(Up to 100 active users)</p>
               <br />
-              <h1 style="margin: 0;">$30</h1>
+              <h1 style="margin: 0;">$50</h1>
               <p>Optimal for mid-level businesses and large agencies that are growing. Allows for scalability.</p>
               <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
             <div class="col m4" style="text-align: center;">
-              <h5 style="margin: 0;">Business</h5>
-              <p style="margin: 0;">(Up to 100 Tenants)</p>
-              <p style="margin: 0; font-size: 0.8em; line-height: 1.5em;">(Each Tenant > 100 Tenants $0.25 each*)</p>
-              <h1 style="margin: 0;">$50</h1>
+              <h5 style="margin: 0;">Level 3</h5>
+              <p style="margin: 0;">(Up to 150 active users)</p>
+              <p style="margin: 0; font-size: 0.8em; line-height: 1.5em;">(1, 2, 3, etc...)</p>
+              <h1 style="margin: 0;">$75</h1>
               <p>Created for data centers, enterprise level businesses, and larger web hosts.</p>
               <a href="/api" class="btn grey fluid" style="text-transform: none;">Learn More</a>
             </div>
           </div>
         </div>
-        <p style="text-align: center;">(All Our Licenses come with a 30 Day Money-Back Guarantee.)</p>
+        <p style="text-align: center;">(Platforms with less than 25 active users are free.)</p>
       </div>
     </div>
     <div class="col s12 m1"></div>

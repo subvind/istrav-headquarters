@@ -13,30 +13,50 @@
         <div class="container" style="position: relative;">
           <div class="powered-by">
             <h1 class="ribbon">
-              <div class="ribbon-content">White Label Branding:</div>
+              <div class="ribbon-content">~~~ BRANDING ~~~</div>
             </h1>
             <div class="padded">
-              <div class="row" style="margin: 0;">
+              <br />
+              <div class="row" >
                 <div class="col s12 m4">
+                  <div class="name">Domain:</div>
                   <p>
                     We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
                   </p>
-                  <a class="btn black" href="/intro/app-store">Anchor Hosting</a>
                 </div>
                 <div class="col s12 m4">
+                  <div class="name">Colors:</div>
                   <p>
                     We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
                   </p>
-                  <a class="btn black" href="/intro/app-store">Mothership Hosting</a>
                 </div>
                 <div class="col s12 m4">
+                  <div class="name">Mission:</div>
                   <p>
                     We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
                   </p>
-                  <a class="btn black" href="/intro/app-store">Anthill Hosting</a>
                 </div>
               </div>
-              <br />
+              <div class="row">
+                <div class="col s12 m4">
+                  <div class="name">Logo:</div>
+                  <p>
+                    We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
+                  </p>
+                </div>
+                <div class="col s12 m4">
+                  <div class="name">Design:</div>
+                  <p>
+                    We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
+                  </p>
+                </div>
+                <div class="col s12 m4">
+                  <div class="name">Layout:</div>
+                  <p>
+                    We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
+                  </p>
+                </div>
+              </div>
             </div>
           </div>
           <div class="slanted">
@@ -46,29 +66,8 @@
           <br class="hide-on-med-and-down" />
           <br />
           <br />
-          <br />
-          <div class="row">
-            <div class="col s12 m4">
-              <div class="name">Affiliates:</div>
-              <p>
-                We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
-              </p>
-              <a class="btn black" href="/intro/app-store">our friends list</a>
-            </div>
-            <div class="col s12 m4">
-              <div class="name">Referrals:</div>
-              <p>
-                We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
-              </p>
-              <a class="btn black" href="/intro/app-store">earn kick backs</a>
-            </div>
-            <div class="col s12 m4">
-              <div class="name">Discounts:</div>
-              <p>
-                We focus on the software side, such as maintance updates, while you focus on whats important, such as bulding a brand. Checkout our growing list of installable applications below.
-              </p>
-              <a class="btn black" href="/intro/app-store">view coupon codes</a>
-            </div>
+          <div style="text-align: center;">
+            <a class="btn btn-large black" href="/intro/app-store">Anthill Hosting</a>
           </div>
         </div>
       </div>
@@ -77,10 +76,6 @@
     <br class="hide-on-med-and-down" />
     <br class="hide-on-med-and-down" />
     <br />
-  </div>
-  
-  <div class="last">
-    <div>© {new Date().getFullYear()} istrav.com. All rights reserved.</div>
   </div>
 </footer>
 

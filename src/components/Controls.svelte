@@ -4,7 +4,7 @@
 
 <div style="position: relative; float: right;">
   <div on:mouseleave={() =>{open = ''}} on:mouseover={() => {open = 'domains'}}>
-    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">Domains</button>
+    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">Mobile</button>
     {#if open === 'domains'}
       <div class="card" style="position: absolute; z-index: 100; top: 3.6em; right: 0.5em; padding: 1em; min-width: 275px; text-align: left;">
         <a href="/domains/register" style="margin-bottom: 1em; width: 100%; color: #111;">
@@ -25,7 +25,7 @@
 </div>
 <div style="position: relative; float: right;">
   <div on:mouseleave={() =>{open = ''}} on:mouseover={() => {open = 'pro-hosting'}}>
-    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">PRO Hosting</button>
+    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">Backend</button>
     {#if open === 'pro-hosting'}
       <div class="card" style="position: absolute; z-index: 100; top: 3.6em; right: 0.5em; padding: 1em; min-width: 275px; text-align: left;">
         <a href="/pro-hosting/volume-blocks" style="margin-bottom: 0; width: 100%; color: #111;">
@@ -87,7 +87,7 @@
 </div>
 <div style="position: relative; float: right;">
   <div on:mouseleave={() =>{open = ''}} on:mouseover={() => {open = 'hosting'}}>
-    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">Hosting</button>
+    <button class="btn btn-large red lighten-2" style="text-transform: none; margin: 0.2em;">Frontend</button>
     {#if open === 'hosting'}
       <div class="card" style="position: absolute; z-index: 100; top: 3.6em; right: 0.5em; padding: 1em; min-width: 275px; text-align: left;">
         <a href="/hosting/app" style="margin-bottom: 1em; width: 100%; color: #111;">
