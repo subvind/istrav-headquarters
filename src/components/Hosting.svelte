@@ -93,9 +93,12 @@
           </div>
         </div>
         <div style="text-align: center;">
-          <a href="https://istrav.com/about" class="btn teal btn-large btn-floating"><i class="material-icons" style="color: #fff;">done</i></a>
+          <a href="https://istrav.com/solutions" class="btn teal btn-large btn-floating"><i class="material-icons" style="color: #fff;">done</i></a>
         </div>
       </div>
+      <br />
+      <br />
+      <br />
       <br />
       <br />
       <br />

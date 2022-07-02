@@ -4,6 +4,8 @@
 
 <div class="wrapper">
   <div class="it-panel">
+    <br />
+    <br />
     <div class="row">
       <div class="col s12 m1"></div>
       <div class="col s12 m10">
@@ -53,7 +55,7 @@
             </div>
           </div>
           <div style="text-align: center;">
-            <a href="/it-panel" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">folder</i></a>
+            <a href="https://istrav.com/platforms" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">folder</i></a>
           </div>
         </div>
       </div>
@@ -73,6 +75,9 @@
           <h1>Behavior Driven<br/>Development</h1>
           <h4 style="margin-top: -0.5em;">We produce high quality results by making good decisions from the beginning and then we progress rapidly by itterating with many small changes.</h4>
         </div>
+        <div style="text-align: center;">
+          <a href="https://istrav.com/production" class="btn black lighten-2 btn-large btn-floating"><i class="material-icons" style="color: #fff;">star</i></a>
+        </div>
         <br />
         <br />
       </div>
@@ -87,6 +92,9 @@
       <h1 style="text-align: center; color: #fff;">Network AI</h1>
       <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial inteligence as a tool to enhance our workflows.</h4>
       <!-- <p style="color: #eee;"></p> -->
+      <div style="text-align: center;">
+        <a href="https://istrav.com/network-ai" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">public</i></a>
+      </div>
     </div>
     <div class="col s12 m3"></div>
   </div>

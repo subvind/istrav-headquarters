@@ -18,7 +18,7 @@
             <br />
             <div>This mainly depends on what you are trying to achieve. Send us your requirements and well see what we can do. Source code modifications require a programmer (for software feature set changes) while tasks like keeping products up to date requires a developer (for business feature set changes). </div>
             <br />
-            <a href="/api" class="btn teal fluid">FOR DEVELOPERS</a>
+            <a href="https://istrav.com/projects" class="btn teal fluid">FOR DEVELOPERS</a>
           </div>
         </div>
       </div>
