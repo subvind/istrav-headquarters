@@ -1,4 +1,4 @@
-isTrav Extra Frontend
+isTrav Headquarters
 ========
 ### license keys
 isTrav Extra is NOT free software; the code is however: open source. This gives everyone the chance to fully review and critique every detail. Unfortunately this exposes us to plagiarism. Modern search engines should be a deterrence to that and we hope it doesn't become an issue.
