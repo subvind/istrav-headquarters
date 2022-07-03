@@ -74,7 +74,7 @@
     <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
   {/if}
   <li>
-    <a href="/powered-by-istrav">
+    <a href="https://github.com/trabur/istrav-headquarters">
       <div style="font-size: 1em;color: #888; text-align: right; padding: 0 1em;">{version || 'v0.0.0'}</div>
     </a>
   </li>
