@@ -38,10 +38,10 @@
   }
 
   .get-started-now:after {
-    background-color: #E57373;
+    background-color: #42a5f5;
     transform: skewy(-1deg); /* angle you want */
     transform-origin: bottom left;
-    border-bottom: 30px solid #E57373; /* bottom border skews with the object */
+    border-bottom: 30px solid #42a5f5; /* bottom border skews with the object */
     content: ' ';
     display: block;
     height: 100%;
