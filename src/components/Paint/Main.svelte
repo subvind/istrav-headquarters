@@ -90,7 +90,7 @@
     <div class="col s12 m3"></div>
     <div class="col s12 m6">
       <h1 style="text-align: center; color: #fff;">Network AI</h1>
-      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial inteligence as a tool to enhance our workflows.</h4>
+      <h4 style="text-align: center; margin-top: -0.5em; color: #eee;">When possible we use bots and artificial intelligence as a tool to enhance our workflows.</h4>
       <!-- <p style="color: #eee;"></p> -->
       <div style="text-align: center;">
         <a href="https://istrav.com/network-ai" class="btn white btn-large btn-floating"><i class="material-icons" style="color: #000;">public</i></a>
