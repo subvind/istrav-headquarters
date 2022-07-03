@@ -111,6 +111,7 @@
   }
 
   #tri {
+    text-align: center;
     margin-bottom: -500px;
   }
 
