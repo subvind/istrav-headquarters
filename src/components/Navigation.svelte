@@ -54,7 +54,7 @@
 </script>
 
 <ul id="slide-out" class="sidenav sidenav-fixed" style="width: 250px;">
-  <h5 style="text-align: center;"><a href="/" style="color: #ccc;"><Logo color="#eee" /></a></h5>
+  <h5 style="text-align: center;"><a href="https://istrav.com" style="color: #ccc;"><Logo color="#eee" /></a></h5>
   <p></p>
   <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
   {#if mode === 'main'}
