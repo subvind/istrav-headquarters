@@ -115,6 +115,10 @@
     margin-bottom: -500px;
   }
 
+  :global(#tri canvas) {
+    width: 100%;
+  }
+
   .float {
     position: relative;
   }
