@@ -10,7 +10,7 @@
       <div class="col s12 m1"></div>
       <div class="col s12 m10">
         <div class="container">
-          <h1 style="text-align: center;">Bulletin Board<br />System:</h1>
+          <h1 style="text-align: center;">Platform & Bulletin<br />Board System:</h1>
           <h4 style="text-align: center; margin-top: -0.5em;"></h4>
           <div class="row">
             <div class="col s12 m4">
