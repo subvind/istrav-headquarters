@@ -6,29 +6,54 @@
 
   let navigation = [
     {
-      name: 'Forum',
-      icon: 'comment',
-      url: 'https://forum.istrav.com'
+      name: 'Front Gate',
+      icon: 'store',
+      url: 'https://communityfolder.com'
     },
     {
-      name: 'Media',
-      icon: 'play_arrow',
-      url: 'https://media.istrav.com'
+      name: 'Activity Feed',
+      icon: 'developer_board',
+      url: 'https://istrav.communityfolder.com'
     },
     {
-      name: 'Blog',
-      icon: 'content_paste',
-      url: 'https://blog.istrav.com'
+      name: 'Forums',
+      icon: 'forum',
+      url: 'https://istrav.communityfolder.com/forums'
     },
     {
-      name: 'Shop',
-      icon: 'local_offer',
-      url: 'https://shop.istrav.com'
+      name: 'Blogs',
+      icon: 'note',
+      url: 'https://istrav.communityfolder.com/blogs'
     },
     {
-      name: 'About',
-      icon: 'import_contacts',
-      url: '/about'
+      name: 'Calendars',
+      icon: 'date_range',
+      url: 'https://istrav.communityfolder.com/calendars'
+    },
+    {
+      name: 'Downloads',
+      icon: 'file_download',
+      url: 'https://istrav.communityfolder.com/downloads'
+    },
+    {
+      name: 'Storefronts',
+      icon: 'shopping_cart',
+      url: 'https://istrav.communityfolder.com/storefronts'
+    },
+    {
+      name: 'Leaderboards',
+      icon: 'poll',
+      url: 'https://istrav.communityfolder.com/leaderboards'
+    },
+    {
+      name: 'Referrals',
+      icon: 'exposure_plus_1',
+      url: 'https://istrav.communityfolder.com/referrals'
+    },
+    {
+      name: 'Rules',
+      icon: 'format_list_numbered',
+      url: 'https://istrav.communityfolder.com/rules'
     },
   ]
 </script>
