@@ -25,7 +25,7 @@
   }
   
   .get-started-now:before {
-    background-color: #E57373;
+    background-color: #42a5f5;
     transform: skewy(1deg); /* angle you want */
     transform-origin: bottom left;
     content: ' ';
