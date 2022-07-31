@@ -8,52 +8,52 @@
     {
       name: 'Front Gate',
       icon: 'store',
-      url: 'https://communityfolder.com'
+      url: 'https://istrav.net'
     },
     {
       name: 'Activity Feed',
       icon: 'developer_board',
-      url: 'https://istrav.communityfolder.com'
+      url: 'https://meta.istrav.net'
     },
     {
       name: 'Forums',
       icon: 'forum',
-      url: 'https://istrav.communityfolder.com/forums'
+      url: 'https://meta.istrav.net/forums'
     },
     {
       name: 'Blogs',
       icon: 'note',
-      url: 'https://istrav.communityfolder.com/blogs'
+      url: 'https://meta.istrav.net/blogs'
     },
     {
       name: 'Calendars',
       icon: 'date_range',
-      url: 'https://istrav.communityfolder.com/calendars'
+      url: 'https://meta.istrav.net/calendars'
     },
     {
       name: 'Downloads',
       icon: 'file_download',
-      url: 'https://istrav.communityfolder.com/downloads'
+      url: 'https://meta.istrav.net/downloads'
     },
     {
       name: 'Storefronts',
       icon: 'shopping_cart',
-      url: 'https://istrav.communityfolder.com/storefronts'
+      url: 'https://meta.istrav.net/storefronts'
     },
     {
       name: 'Leaderboards',
       icon: 'poll',
-      url: 'https://istrav.communityfolder.com/leaderboards'
+      url: 'https://meta.istrav.net/leaderboards'
     },
     {
       name: 'Referrals',
       icon: 'exposure_plus_1',
-      url: 'https://istrav.communityfolder.com/referrals'
+      url: 'https://meta.istrav.net/referrals'
     },
     {
       name: 'Rules',
       icon: 'format_list_numbered',
-      url: 'https://istrav.communityfolder.com/rules'
+      url: 'https://meta.istrav.net/rules'
     },
   ]
 </script>
