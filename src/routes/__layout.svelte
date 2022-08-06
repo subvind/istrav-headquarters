@@ -2,6 +2,7 @@
   import { onMount } from 'svelte';
 	import { backend, sidebarVisibility, sidebarActive, sidebarMode } from '../stores.js';
   import Navigation from "../components/Navigation.svelte"
+  import Credits from "../components/Credits.svelte"
 
   let loading = true
   let api = ''
@@ -47,6 +48,7 @@
   <Navigation active={sidebarActiveId} mode={sidebarModeId} isOpen={sidebarIsOpen} />
   <div class="detail">
     <slot></slot>
+    <Credits />
   </div>
 {/if}
 
