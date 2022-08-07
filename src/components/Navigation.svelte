@@ -57,15 +57,20 @@
   <h5 style="text-align: center;"><a href="https://istrav.com" style="color: #ccc;"><Logo color="#eee" /></a></h5>
   <p></p>
   <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  {#if mode === 'main'}
-    <li><a href="#!" class="subheader">ISTRAV.COM</a></li>
-    <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/production" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>grade</i>Production</a></li>
-    <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/solutions" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>check</i>Solutions</a></li>
-    <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/apps" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>extension</i>Apps</a></li>
-    <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/platforms" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>folder</i>Platforms</a></li>
-    <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/projects" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>code</i>Projects</a></li>
-    <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  {/if}
+  <!-- {#if mode === 'main'}
+  {/if} -->
+  <li><a href="#!" class="subheader">ISTRAV.COM</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/production" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>grade</i>Production</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/solutions" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>check</i>Solutions</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/apps" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>extension</i>Apps</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/platforms" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>folder</i>Platforms</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/projects" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>code</i>Projects</a></li>
+  <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
+  <li><a href="#!" class="subheader">DESIGN PATTERNS</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="/design-patterns/creational" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>grade</i>Creational</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="/design-patterns/structural" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>check</i>Structural</a></li>
+  <li class={active === 'hosting' ? 'active' : null}><a href="/design-patterns/behavioral" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>extension</i>Behavioral</a></li>
+  <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
   {#if !token}
     <li><a href="#!" class="subheader">CLIENT AREA</a></li>
     <li class={active === 'login' ? 'active' : null}><a href="https://istrav.com/client-area/verify" class="waves-effect"><i class={`material-icons`}>exit_to_app</i>Login</a></li>
