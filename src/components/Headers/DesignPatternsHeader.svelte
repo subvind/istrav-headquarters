@@ -26,15 +26,10 @@
   <div class="nav-wrapper">
     <a href="#!" class="brand-logo">
       <a href="#!" on:click={() => toggleSidebar()} class="menu"><i class="material-icons">menu</i></a>
-      itPanel / WRM / {title}
+      Design Patterns / {title}
     </a>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
-      {#if tokenCode}
-        <li><a href="/">Web solutions and custom software.</a></li>
-      {:else}
-        <li><a href="/welcome/login">Login</a></li>
-        <li><a href="/welcome/register">Register</a></li>
-      {/if}
+      <a href="/">System Headquarters</a>
     </ul>
   </div>
 </nav>
