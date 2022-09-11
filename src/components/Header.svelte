@@ -22,7 +22,7 @@
 <div class="it-panel">
   <div style="padding: 1em; border-bottom: 1px solid #888; overflow: hidden;">
     <div style="float: left;">
-      <a href="https://discord.gg/27dBhn3zuc" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">chat</i> Discord</a>
+      <a href="https://discord.gg/27dBhn3zuc" target="_blank" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">chat</i> Discord</a>
       <a href="#!" style="color: #888; margin: 0 0.5em;"><i class="material-icons" style="font-size: 0.8em; color: #888;">mail</i> Email: travis.burandt@gmail.com</a>
     </div>
     <div style="float: right; color: #888;">
