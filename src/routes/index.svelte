@@ -8,7 +8,6 @@
   import ProHosting from "../components/ProHosting.svelte"
   import Domains from "../components/Domains.svelte"
   import MainPaint from "../components/Paint/Main.svelte"
-  import PoweredBy from "../components/PoweredBy.svelte"
   import Community from '../components/Community.svelte'
   // import PlatformGoals from "../components/PlatformGoals.svelte"
   import API from "../components/API.svelte"
@@ -47,7 +46,6 @@
 </div>
 <ProHosting />
 <MainPaint />
-<PoweredBy />
 <br />
 <br />
 <br />
