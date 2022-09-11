@@ -1,11 +1,10 @@
-
 <script>
   import { onMount } from 'svelte';
 
-  import Header from "../../../components/Headers/DesignPatternsHeader.svelte"
+  import Header from "../../../components/Headers/DesignHeader.svelte"
   import Footer from "../../../components/Footer.svelte"
-  import WebRootManager from "../../../components/Paint/WebRootManager.svelte"
-  import Navigation from "../../../components/Navigation/WebRootManager.svelte"
+  import Design from "../../../components/Paint/Design.svelte"
+  import Navigation from "../../../components/Navigation/DesignBehavioral.svelte"
 
   // import axios from 'axios'
 
@@ -14,12 +13,14 @@
   backend.subscribe(value => {
 		api = value
 	})
-  sidebarActive.set('behavioral')
-  sidebarMode.set('design-patterns')
+  sidebarActive.set('design')
+  sidebarMode.set('design')
 </script>
 
-<Header title="Behavioral" />
-<WebRootManager />
+<Header>
+  <a href="/design/behavioral">Behavioral</a>
+</Header>
+<Design />
 
 <div style="min-height: 100vh;">
   <Navigation title={null} back={true} />

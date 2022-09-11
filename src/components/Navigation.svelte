@@ -1,19 +1,9 @@
 <script>
   import { onMount } from "svelte";
 
-  import axios from 'axios'
-  import { parseJwt } from '../parseJwt'
-  import { backend } from '../stores.js'
   import Logo from './Logo.svelte'
 
-  let token
-  let api
-  backend.subscribe(value => {
-		api = value
-	})
-
   let instances
-  let version
   export let active
   export let mode
   export let isOpen
@@ -30,12 +20,6 @@
   }
 
   onMount(() => {
-    let tokenCode = localStorage.getItem('token')
-    if (tokenCode) {
-      token = parseJwt(tokenCode)
-      console.log('token', token)
-    }
-
     var elems = document.querySelectorAll('.sidenav');
     instances = window['M'].Sidenav.init(elems, {
       isOpen: true,
@@ -44,21 +28,23 @@
     if (isOpen) {
       instances[0].open()
     }
-
-    axios.get(`${api}`)
-      .then(function (response) {
-        console.log(response)
-        version = response.data
-      })
   })
 </script>
 
 <ul id="slide-out" class="sidenav sidenav-fixed" style="width: 250px;">
-  <h5 style="text-align: center;"><a href="https://istrav.com" style="color: #ccc;"><Logo color="#eee" /></a></h5>
-  <p></p>
+  <h5 style="text-align: center;"><a href="#" style="color: #ccc;"><Logo color="#eee" /></a></h5>
   <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  <!-- {#if mode === 'main'}
-  {/if} -->
+  <div style="margin: 0.5em;">
+    <a href="/" class="btn red lighten-2" style="width: 100%;"><i class="material-icons left">developer_board</i>HEADQUARTERS<i class="material-icons right">chevron_right</i></a>
+  </div>
+  <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
+  <li><a href="#!" class="subheader">ISTRAV.DEV</a></li>
+  <li class={active === 'design' ? 'active' : null}><a href="/design" on:click={() => {active = 'design'}} class="waves-effect"><i class={`material-icons`}>color_lens</i>Design</a></li>
+  <li class={active === 'architecture' ? 'active' : null}><a href="/architecture" on:click={() => {active = 'architecture'}} class="waves-effect"><i class={`material-icons`}>brush</i>Architecture</a></li>
+  <li class={active === 'infrastructure' ? 'active' : null}><a href="/infrastructure" on:click={() => {active = 'infrastructure'}} class="waves-effect"><i class={`material-icons`}>domain</i>Infrastructure</a></li>
+  <li class={active === 'engineering' ? 'active' : null}><a href="/engineering" on:click={() => {active = 'engineering'}} class="waves-effect"><i class={`material-icons`}>straighten</i>Engineering</a></li>
+  <li class={active === 'construction' ? 'active' : null}><a href="/construction" on:click={() => {active = 'construction'}} class="waves-effect"><i class={`material-icons`}>build</i>Construction</a></li>
+  <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
   <li><a href="#!" class="subheader">ISTRAV.COM</a></li>
   <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/production" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>grade</i>Production</a></li>
   <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/solutions" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>check</i>Solutions</a></li>
@@ -66,23 +52,17 @@
   <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/platforms" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>folder</i>Platforms</a></li>
   <li class={active === 'hosting' ? 'active' : null}><a href="https://istrav.com/projects" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>code</i>Projects</a></li>
   <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  <li><a href="#!" class="subheader">DESIGN PATTERNS</a></li>
-  <li class={active === 'creational' ? 'active' : null}><a href="/design-patterns/creational" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>grade</i>Creational</a></li>
-  <li class={active === 'structural' ? 'active' : null}><a href="/design-patterns/structural" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>check</i>Structural</a></li>
-  <li class={active === 'behavioral' ? 'active' : null}><a href="/design-patterns/behavioral" on:click={() => {active = 'hosting'}} class="waves-effect"><i class={`material-icons`}>extension</i>Behavioral</a></li>
-  <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  {#if !token}
-    <li><a href="#!" class="subheader">CLIENT AREA</a></li>
-    <li class={active === 'login' ? 'active' : null}><a href="https://istrav.com/client-area/verify" class="waves-effect"><i class={`material-icons`}>exit_to_app</i>Login</a></li>
-    <li class={active === 'register' ? 'active' : null}><a href="https://istrav.com/client-area/join" class="waves-effect"><i class={`material-icons`}>person_add</i>Register</a></li>
-    <li class={active === 'forgot-password' ? 'active' : null}><a href="https://istrav.com/client-area/forgot-password" class="waves-effect"><i class={`material-icons`}>lock_open</i>Forgot Password</a></li>
-    <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
-  {/if}
   <li>
-    <a href="https://github.com/trabur/istrav-headquarters">
-      <div style="font-size: 1em;color: #888; text-align: right; padding: 0 1em;">{version || 'v0.0.0'}</div>
+    <a href="https://github.com/trabur" target="_blank">
+      <div style="font-size: 1em;color: #888; text-align: right; padding: 0 1em;">GitHub</div>
     </a>
   </li>
+  <li>
+    <a href="https://www.npmjs.com/~travis.burandt" target="_blank">
+      <div style="font-size: 1em;color: #888; text-align: right; padding: 0 1em;">NPM</div>
+    </a>
+  </li>
+  
   <br />
   <br />
   <br />
@@ -91,6 +71,10 @@
 <style>
   #slide-out {
     background: #333;
+  }
+
+  .sidenav li.active {
+    background: #222;
   }
 
   .sidenav li > a {

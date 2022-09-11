@@ -1,6 +1,5 @@
 <script>
   import { onMount } from 'svelte';
-  export let title
 
 	import { sidebarVisibility } from '../../stores.js';
   let visible 
@@ -24,12 +23,12 @@
 
 <nav class="teal lighten-1">
   <div class="nav-wrapper">
-    <a href="#!" class="brand-logo">
+    <div class="brand-logo">
       <a href="#!" on:click={() => toggleSidebar()} class="menu"><i class="material-icons">menu</i></a>
-      Design Patterns / {title}
-    </a>
+      <a href="/system">System</a> / <a href="/design">Design</a> / <slot></slot>
+    </div>
     <ul id="nav-mobile" class="right hide-on-med-and-down">
-      <a href="/">System Headquarters</a>
+      <a href="/">Headquarters</a>
     </ul>
   </div>
 </nav>
