@@ -1,6 +1,6 @@
 
 <div class="container">
-  <a href="https://istrav.com/platforms/pricing">
+  <a href="https://istrav.com/pricing">
     <div class="get-started-now">
       <h1 style="text-align: center; margin-top: 0;">Stage Zero:</h1>
       <h4 style="text-align: center; margin-top: -0.5em;">Innovation Management<br />Software starting at $25/mo*</h4>

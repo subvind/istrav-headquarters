@@ -19,7 +19,7 @@
         <br />~Travis Burandt
       </p>
       <div>
-        <a href="https://istrav.com/platforms/pricing" class="btn btn-large red lighten-2" style="float: left; margin-right: 1em; text-transform: none;">Membership</a>
+        <a href="https://istrav.com/pricing" class="btn btn-large red lighten-2" style="float: left; margin-right: 1em; text-transform: none;">Membership</a>
         <div style="">
           <p style="font-size: 1.2em;  font-weight: bold; margin: 0;">Starting at only</p>
           <p style="font-size: 2em; margin: 0;">$25/mo*</p>
