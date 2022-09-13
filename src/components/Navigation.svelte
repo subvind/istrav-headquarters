@@ -32,7 +32,11 @@
 </script>
 
 <ul id="slide-out" class="sidenav sidenav-fixed" style="width: 250px;">
-  <h5 style="text-align: center;"><a href="#" style="color: #ccc;"><Logo color="#eee" /></a></h5>
+  <div style="text-align: center;">
+    <a href="https://istrav.com" style="color: #ccc;">
+      <img src="/anchor.png" alt="isTrav" style="width: 100px; margin: 1em">
+    </a>
+  </div>
   <li><div class="divider" style="margin: 0; background-color: #111;"></div></li>
   <div style="margin: 0.5em;">
     <a href="/" class="btn red lighten-2" style="width: 100%;"><i class="material-icons left">developer_board</i>HEADQUARTERS<i class="material-icons right">chevron_right</i></a>
