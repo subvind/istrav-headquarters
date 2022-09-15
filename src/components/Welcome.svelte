@@ -13,7 +13,7 @@
     <div class="col s12 m6 l6">
       <h1 class="slogan">System<br />Headquarters</h1>
       <p style="max-width: 400px; font-size: 1.2em;">Let's build ideas. isTrav's goal is to solve problems using the right solutions, turn ideas into apps that spark joy to the end user, and then to keep production live with what works best.</p>
-      <p style="max-width: 400px; font-size: 1.2em;">Developing an application is not easy, from design to construction there is so much that could go wrong, however: that's where isTrav works best! Checkout our portfolio at <a href="https://istrav.com/production">istrav.com/production</a> for more info :)</p>
+      <p style="max-width: 400px; font-size: 1.2em;">Developing an application is not easy, from design to construction there is so much that could go wrong, however: that's where isTrav works best! View our latest work at <a href="https://istrav.com/production">istrav.com/production</a> for more info :)</p>
       <p style="font-size: 1.2em;">
         best,
         <br />~Travis Burandt
