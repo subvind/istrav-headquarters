@@ -3,7 +3,7 @@
     <div class="nav-wrapper">
       <ul class="">
         <li class=""><a href="/" target="_blank">istrav.dev © {new Date().getFullYear()}.</a></li>
-        <li class=""><a href="https://istrav.com" target="_blank">Made with &hearts; by istrav.com.</a></li>
+        <li class=""><a href="https://istrav.com" target="_blank">Made with &hearts; by isTrav.</a></li>
       </ul>
       <ul class="right">
         <li><a href={`https://istrav.com`}>Website</a></li>
